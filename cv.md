@@ -18,6 +18,6 @@ ___
 knowledge of HTML/CSS and a basic knowledge of JavaScript/Typescrypt.
 I'm also studying agile development methodologies as Scrum, Kanban.
 My free time is devoted to further study of JavaScript programming,
-learning React/Redux.
+learning React/Redux on online courses.
 I have a high level of motivation to learn and would very much like to take frontend developer course.
 I also have a long history of in-depth research into blockchain technology and smart contracts.
