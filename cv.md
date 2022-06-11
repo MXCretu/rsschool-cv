@@ -1,7 +1,7 @@
 ## Denis Yeremyonock
 ### Minsk, Belarus
 December 24.08.1981
-### +375447636997
+### +375447636997 (A1)
 ___
 ## SKILLS
 #### HTML
