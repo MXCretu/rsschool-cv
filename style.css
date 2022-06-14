@@ -84,9 +84,13 @@
 .Jobitems {
     display: flex;
     flex-direction: row;
-
-
 }
+
+. Articleitem {
+    min-height: 215px;
+}
+
+
 
 .Jobitem {
     max-width: 650px;
